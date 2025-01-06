@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eee2e2,100:ecb1b1&height=120&text=ソンドンジン&animation=&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eee2e2,100:ecb1b1&height=120&text=孫東鎮&animation=&fontColor=ffffff&fontSize=70" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> よろしくお願いいたします </h2>  
