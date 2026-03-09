@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> よろしくお願いいたします </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> ドンジンと申します。よろしくお願いいたします。</li>日本でフロントエンドエンジニアとして活躍するために、フロントエンド技術だけでなく関連分野の技術も勉強してきました。まだ未熟な部分もありますが、最善を尽くして努力し、成功できるよう頑張ります。 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1></div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
