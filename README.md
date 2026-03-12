@@ -3,6 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> よろしくお願いいたします </h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> AIを生かせる建築工学を勉強をやっていきたいと思います。よろしくお願いします</h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1></div> 
     </div>
     <div align= "center">
